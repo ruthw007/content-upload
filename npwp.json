@@ -96,7 +96,7 @@
       "category": "Mobile, NPWP",
       "title": "Apa Itu NPWP? Ini Fungsi, Jenis dan Siapa saja yang Wajib Memiliki",
       "image": "file:///android_asset/image/tentangnpwp.jpg",
-      "content": "file:///android_asset/content/Sekilas-tentang-NPWP-Online.html",
+      "content": "file:///android_asset/content/tentang-npwp.html",
       "video": ""
     },
      {
@@ -104,7 +104,7 @@
       "category": "Online, NPWP",
       "title": "NPWP: Persyaratan Pembuatan NPWP bagi Wajib Pajak Orang Pribadi",
       "image": "file:///android_asset/image/syaratnpwp.jpg",
-      "content": "file:///android_asset/content/persyaratan-dalam-membuat-npwp.html",
+      "content": "file:///android_asset/content/syarat-buat-npwp.html",
       "video": ""
     },
     {
@@ -112,7 +112,7 @@
       "category": "Mobile, NPWP",
       "title": "Begini Cara Membuat NPWP Online 2024, Mudah dan Praktis!",
       "image": "file:///android_asset/image/cara-buatnpwp.jpg",
-      "content": "file:///android_asset/content/Cara-Membuat-NPWP-Online.html",
+      "content": "file:///android_asset/content/cara-buatnpwp.html",
       "video": ""
     },
      {
@@ -120,7 +120,7 @@
       "category": "Online, NPWP",
       "title": "Berikut alasan Mengapa Anda Perlu Mengecek NPWP secara rutin",
       "image": "file:///android_asset/image/alasan-cek-npwp.jpg",
-      "content": "file:///android_asset/content/Alasan Mengapa Anda Perlu Mengecek NPWP.html",
+      "content": "file:///android_asset/content/alasan-cek-npwp.html",
       "video": ""
     },
     {
@@ -128,7 +128,7 @@
       "category": "Mobile, NPWP",
       "title": "Begini Cara Cek NPWP Online dan Offline yang Sudah Terdaftar, yuk simak",
       "image": "file:///android_asset/image/ceknpwp.jpg",
-      "content": "file:///android_asset/content/Cara Cek NPWP secara Online.html",
+      "content": "file:///android_asset/content/ceknpwp.html",
       "video": ""
     },
     {
@@ -136,7 +136,7 @@
       "category": "Mobile, NPWP",
       "title": "Gagal registrasi NPWP? Gagal validasi NPWP? Ini Penyebab dan Solusinya!",
       "image": "file:///android_asset/image/npwpbermasalah.jpg",
-      "content": "file:///android_asset/content/Bagaimana Jika NPWP Online Bermasalah.html",
+      "content": "file:///android_asset/content/npwpbermasalah.html",
       "video": ""
     }
 	
