@@ -82,12 +82,12 @@
     {
       "id": 2,
       "name": "Online",
-      "image": "file:///android_asset/image/online."
+      "image": "file:///android_asset/image/online.png"
     },
     {
       "id": 3,
       "name": "Bansos",
-      "image": "file:///android_asset/image/bansos.jpg"
+      "image": "file:///android_asset/image/bansos.png"
     }
   ],
   "posts": [
