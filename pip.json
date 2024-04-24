@@ -72,6 +72,7 @@
       "show_open_ad_on_app_start": true,
       "show_open_ad_on_app_resume": true
     }
+  ],
  "categories": [
     {
       "id": 1,
@@ -138,6 +139,7 @@
       "content": "file:///android_asset/content/jadwalcairpip.html",
       "video": ""
     }
+	
   ],
   "more_apps": [
     
