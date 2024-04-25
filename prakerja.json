@@ -72,7 +72,7 @@
       "show_open_ad_on_app_start": true,
       "show_open_ad_on_app_resume": true
     }
- "categories": [
+"categories": [
     {
       "id": 1,
       "name": "Prakerja",
@@ -95,7 +95,7 @@
       "category": "Prakerja, Pelatihan",
       "title": "Cara Mudah Daftar Kartu Prakerja 2024 Melalui HP dan Syaratnya",
       "image": "file:///android_asset/image/daftar.jpg",
-      "content": "file:///android_asset/content/syarat buat kartu prakerja.html",
+      "content": "file:///android_asset/content/cara daftar dan syarat buat kartu prakerja.html",
       "video": ""
     },
      {
@@ -103,7 +103,7 @@
       "category": "Online, Pelatihan",
       "title": "Jangan Sampai Salah, Begini Cara Buat Akun Prakerja 2024, Mudah dan Anti Ribet",
       "image": "file:///android_asset/image/akun.jpg",
-      "content": "file:///android_asset/content/Cara Mendaftar Kartu Prakerja.html",
+      "content": "file:///android_asset/content/Cara Mendaftar atau membuat akun Kartu Prakerja.html",
       "video": ""
     },
     {
@@ -111,15 +111,15 @@
       "category": "Prakerja, Pelatihan",
       "title": "Cara Cek Lolos Prakerja dan Cara sambungkan e- wallet 2024",
       "image": "file:///android_asset/image/lolos.jpg",
-      "content": "file:///android_asset/content/Cara Cek Lolos Prakerja.html",
+      "content": "file:///android_asset/content/Cara Cek Lolos Prakerja dan Cara sambungkan e- wallet.html",
       "video": ""
     },
      {
       "id": 4,
       "category": "Online, Pelatihan",
-      "title": "Beda dari Sebelumnya, Ini Rincian Insentif Kartu Prakerja 2024",
+      "title": "Beda dari Sebelumnya, Ini Rincian Insentif Kartu Prakerja gelombang 63 2024",
       "image": "file:///android_asset/image/intensif.jpg",
-      "content": "file:///android_asset/content/Insentif Kartu Prakerja 2024.html",
+      "content": "file:///android_asset/content/Berapa Insentif Kartu Prakerja 2024.html",
       "video": ""
     },
      {
@@ -127,7 +127,7 @@
       "category": "Prakerja, Pelatihan",
       "title": "Kartu Prakerja Dibuka Tahun 2024, Beberapa Keuntungan yang Didapat Peserta Setelah Membuat Akun",
       "image": "file:///android_asset/image/untung.jpg",
-      "content": "file:///android_asset/content/Keuntungan Akun Prakerja 2024.html",
+      "content": "file:///android_asset/content/Keuntungan Mendaftar Akun Prakerja 2024.html",
       "video": ""
     },
     {
@@ -135,7 +135,7 @@
       "category": "Prakerja, Pelatihan",
       "title": "Bagiamana nasib Kelanjutan Kartu Prakerja setelah Ganti Presiden 2024",
       "image": "file:///android_asset/image/nasib.jpg",
-      "content": "file:///android_asset/content/Kelanjutan Kartu Prakerja setelah Ganti Presiden 2024.html",
+      "content": "file:///android_asset/content/PNasib Kelanjutan Kartu Prakerja setelah Ganti Presiden 2024.html",
       "video": ""
     }
   ],
