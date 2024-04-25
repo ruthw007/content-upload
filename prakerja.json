@@ -22,10 +22,10 @@
       "ad_status": true,
       "main_ad": "admob",
       "backup_ad": "alien",
-      "admob_banner_unit_id": "ca-app-pub-3940256099942544/9214589741",
-      "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
-      "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
-      "admob_app_open_unit_id": "ca-app-pub-3940256099942544/9257395921",
+      "admob_banner_unit_id": "ca-app-pub-3940256099942544/92145897411",
+      "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/10331737112",
+      "admob_native_unit_id": "ca-app-pub-3940256099942544/22476961110",
+      "admob_app_open_unit_id": "ca-app-pub-3940256099942544/92573959211",
       "ad_manager_banner_unit_id": "/6499/example/banner",
       "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
       "ad_manager_native_unit_id": "/6499/example/native",
@@ -72,11 +72,12 @@
       "show_open_ad_on_app_start": true,
       "show_open_ad_on_app_resume": true
     }
-"categories": [
+  ],
+ "categories": [
     {
       "id": 1,
-      "name": "Prakerja",
-      "image": "file:///android_asset/image/prakerja.png"
+      "name": "Mobile",
+      "image": "file:///android_asset/image/mobile.png"
     },
     {
       "id": 2,
@@ -85,59 +86,60 @@
     },
     {
       "id": 3,
-      "name": "Pelatihan",
-      "image": "file:///android_asset/image/pelatihan.png"
+      "name": "NPWP",
+      "image": "file:///android_asset/image/npwp.png"
     }
   ],
   "posts": [
     {
       "id": 1,
-      "category": "Prakerja, Pelatihan",
-      "title": "Cara Mudah Daftar Kartu Prakerja 2024 Melalui HP dan Syaratnya",
-      "image": "file:///android_asset/image/daftar.jpg",
-      "content": "file:///android_asset/content/cara daftar dan syarat buat kartu prakerja.html",
+      "category": "Mobile, NPWP",
+      "title": "Apa Itu NPWP? Ini Fungsi, Jenis dan Siapa saja yang Wajib Memiliki",
+      "image": "file:///android_asset/image/tentangnpwp.jpg",
+      "content": "file:///android_asset/content/tentang-npwp.html",
       "video": ""
     },
      {
       "id": 2,
-      "category": "Online, Pelatihan",
-      "title": "Jangan Sampai Salah, Begini Cara Buat Akun Prakerja 2024, Mudah dan Anti Ribet",
-      "image": "file:///android_asset/image/akun.jpg",
-      "content": "file:///android_asset/content/Cara Mendaftar atau membuat akun Kartu Prakerja.html",
+      "category": "Online, NPWP",
+      "title": "NPWP: Persyaratan Pembuatan NPWP bagi Wajib Pajak Orang Pribadi",
+      "image": "file:///android_asset/image/syaratnpwp.jpg",
+      "content": "file:///android_asset/content/syarat-buat-npwp.html",
       "video": ""
     },
     {
       "id": 3,
-      "category": "Prakerja, Pelatihan",
-      "title": "Cara Cek Lolos Prakerja dan Cara sambungkan e- wallet 2024",
-      "image": "file:///android_asset/image/lolos.jpg",
-      "content": "file:///android_asset/content/Cara Cek Lolos Prakerja dan Cara sambungkan e- wallet.html",
+      "category": "Mobile, NPWP",
+      "title": "Begini Cara Membuat NPWP Online 2024, Mudah dan Praktis!",
+      "image": "file:///android_asset/image/cara-buatnpwp.jpg",
+      "content": "file:///android_asset/content/cara-buatnpwp.html",
       "video": ""
     },
      {
       "id": 4,
-      "category": "Online, Pelatihan",
-      "title": "Beda dari Sebelumnya, Ini Rincian Insentif Kartu Prakerja gelombang 63 2024",
-      "image": "file:///android_asset/image/intensif.jpg",
-      "content": "file:///android_asset/content/Berapa Insentif Kartu Prakerja 2024.html",
-      "video": ""
-    },
-     {
-      "id": 5,
-      "category": "Prakerja, Pelatihan",
-      "title": "Kartu Prakerja Dibuka Tahun 2024, Beberapa Keuntungan yang Didapat Peserta Setelah Membuat Akun",
-      "image": "file:///android_asset/image/untung.jpg",
-      "content": "file:///android_asset/content/Keuntungan Mendaftar Akun Prakerja 2024.html",
+      "category": "Online, NPWP",
+      "title": "Berikut alasan Mengapa Anda Perlu Mengecek NPWP secara rutin",
+      "image": "file:///android_asset/image/alasan-cek-npwp.jpg",
+      "content": "file:///android_asset/content/alasan-cek-npwp.html",
       "video": ""
     },
     {
       "id": 6,
-      "category": "Prakerja, Pelatihan",
-      "title": "Bagiamana nasib Kelanjutan Kartu Prakerja setelah Ganti Presiden 2024",
-      "image": "file:///android_asset/image/nasib.jpg",
-      "content": "file:///android_asset/content/PNasib Kelanjutan Kartu Prakerja setelah Ganti Presiden 2024.html",
+      "category": "Mobile, NPWP",
+      "title": "Begini Cara Cek NPWP Online dan Offline yang Sudah Terdaftar, yuk simak",
+      "image": "file:///android_asset/image/ceknpwp.jpg",
+      "content": "file:///android_asset/content/ceknpwp.html",
+      "video": ""
+    },
+    {
+      "id": 7,
+      "category": "Mobile, NPWP",
+      "title": "Gagal registrasi NPWP? Gagal validasi NPWP? Ini Penyebab dan Solusinya!",
+      "image": "file:///android_asset/image/npwpbermasalah.jpg",
+      "content": "file:///android_asset/content/npwpbermasalah.html",
       "video": ""
     }
+	
   ],
   "more_apps": [
     
