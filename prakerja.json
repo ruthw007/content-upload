@@ -73,11 +73,11 @@
       "show_open_ad_on_app_resume": true
     }
   ],
- "categories": [
+"categories": [
     {
       "id": 1,
-      "name": "Mobile",
-      "image": "file:///android_asset/image/mobile.png"
+      "name": "Prakerja",
+      "image": "file:///android_asset/image/prakerja.png"
     },
     {
       "id": 2,
@@ -86,57 +86,57 @@
     },
     {
       "id": 3,
-      "name": "NPWP",
-      "image": "file:///android_asset/image/npwp.png"
+      "name": "Pelatihan",
+      "image": "file:///android_asset/image/pelatihan.png"
     }
   ],
   "posts": [
     {
       "id": 1,
-      "category": "Mobile, NPWP",
-      "title": "Apa Itu NPWP? Ini Fungsi, Jenis dan Siapa saja yang Wajib Memiliki",
-      "image": "file:///android_asset/image/tentangnpwp.jpg",
-      "content": "file:///android_asset/content/tentang-npwp.html",
+      "category": "Prakerja, Pelatihan",
+      "title": "Cara Mudah Daftar Kartu Prakerja 2024 Melalui HP dan Syaratnya",
+      "image": "file:///android_asset/image/daftar.jpg",
+      "content": "file:///android_asset/content/syarat buat kartu prakerja.html",
       "video": ""
     },
      {
       "id": 2,
-      "category": "Online, NPWP",
-      "title": "NPWP: Persyaratan Pembuatan NPWP bagi Wajib Pajak Orang Pribadi",
-      "image": "file:///android_asset/image/syaratnpwp.jpg",
-      "content": "file:///android_asset/content/syarat-buat-npwp.html",
+      "category": "Online, Pelatihan",
+      "title": "Jangan Sampai Salah, Begini Cara Buat Akun Prakerja 2024, Mudah dan Anti Ribet",
+      "image": "file:///android_asset/image/akun.jpg",
+      "content": "file:///android_asset/content/Cara Mendaftar Kartu Prakerja.html",
       "video": ""
     },
     {
       "id": 3,
-      "category": "Mobile, NPWP",
-      "title": "Begini Cara Membuat NPWP Online 2024, Mudah dan Praktis!",
-      "image": "file:///android_asset/image/cara-buatnpwp.jpg",
-      "content": "file:///android_asset/content/cara-buatnpwp.html",
+      "category": "Prakerja, Pelatihan",
+      "title": "Cara Cek Lolos Prakerja dan Cara sambungkan e- wallet 2024",
+      "image": "file:///android_asset/image/lolos.jpg",
+      "content": "file:///android_asset/content/Cara Cek Lolos Prakerja.html",
       "video": ""
     },
      {
       "id": 4,
-      "category": "Online, NPWP",
-      "title": "Berikut alasan Mengapa Anda Perlu Mengecek NPWP secara rutin",
-      "image": "file:///android_asset/image/alasan-cek-npwp.jpg",
-      "content": "file:///android_asset/content/alasan-cek-npwp.html",
+      "category": "Online, Pelatihan",
+      "title": "Beda dari Sebelumnya, Ini Rincian Insentif Kartu Prakerja 2024",
+      "image": "file:///android_asset/image/intensif.jpg",
+      "content": "file:///android_asset/content/Insentif Kartu Prakerja 2024.html",
+      "video": ""
+    },
+     {
+      "id": 5,
+      "category": "Prakerja, Pelatihan",
+      "title": "Kartu Prakerja Dibuka Tahun 2024, Beberapa Keuntungan yang Didapat Peserta Setelah Membuat Akun",
+      "image": "file:///android_asset/image/untung.jpg",
+      "content": "file:///android_asset/content/Keuntungan Akun Prakerja 2024.html",
       "video": ""
     },
     {
       "id": 6,
-      "category": "Mobile, NPWP",
-      "title": "Begini Cara Cek NPWP Online dan Offline yang Sudah Terdaftar, yuk simak",
-      "image": "file:///android_asset/image/ceknpwp.jpg",
-      "content": "file:///android_asset/content/ceknpwp.html",
-      "video": ""
-    },
-    {
-      "id": 7,
-      "category": "Mobile, NPWP",
-      "title": "Gagal registrasi NPWP? Gagal validasi NPWP? Ini Penyebab dan Solusinya!",
-      "image": "file:///android_asset/image/npwpbermasalah.jpg",
-      "content": "file:///android_asset/content/npwpbermasalah.html",
+      "category": "Prakerja, Pelatihan",
+      "title": "Bagiamana nasib Kelanjutan Kartu Prakerja setelah Ganti Presiden 2024",
+      "image": "file:///android_asset/image/nasib.jpg",
+      "content": "file:///android_asset/content/Kelanjutan Kartu Prakerja setelah Ganti Presiden 2024.html",
       "video": ""
     }
 	
